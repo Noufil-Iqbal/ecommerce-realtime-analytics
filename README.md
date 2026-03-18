@@ -28,3 +28,6 @@ Python Script → Kinesis Streams → Lambda → Kinesis Firehose → S3 → Ath
 4. Install dependencies: `pip3 install boto3`
 5. Run: `python3 simulate_events_py.py`
 6. Query results in Athena using athena_queries.sql
+
+## Dashboard
+View the live Tableau dashboard: [Click Here](https://public.tableau.com/views/Ecommerce_Analytics_17738056485530/Real-TimeE-CommerceAnalyticsDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
