@@ -17,7 +17,7 @@ Python Script → Kinesis Streams → Lambda → Kinesis Firehose → S3 → Ath
 
 ## Key Results
 - ✅ Processed 600+ real-time events through the pipeline
-- ✅ Highest abandonment rate: 90.48% on Desktop in India
+- ✅ Highest abandonment rate: 90.48% on Desktop
 - ✅ Lowest abandonment rate: 65% on Mobile devices
 - ✅ Pipeline latency: under 60 seconds from event to S3
 
