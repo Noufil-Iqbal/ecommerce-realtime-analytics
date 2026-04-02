@@ -1,3 +1,4 @@
+<img width="975" height="570" alt="Screenshot 2026-03-18 at 8 56 48 AM" src="https://github.com/user-attachments/assets/edbd7a88-798e-443e-b4fe-3672917b3e44" />
 # Real-Time E-Commerce Analytics Pipeline 🛒📊
 
 A real-time data streaming pipeline built on AWS to track e-commerce 
